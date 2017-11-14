@@ -1,10 +1,15 @@
 # easymath
- write Mathematical Proof by Coding
+
+write Mathematical Proof in Coding style
+
+Why Mathematical Proof doesn't highlight?
+
+Coding your Proof !
 
 # base rules
 | name | meaning |
 | --- | --- |
-| definition | described with $\verpsilon - \delta$ language |
+| definition | described with $\varepsilon - \delta$ language |
 | theorem | deduced from Definitions |
 | formula | useful formulas |
 
